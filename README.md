@@ -7,7 +7,7 @@ Threads with different priority policy (RM, EDF) , Polling server, Driver module
 ## How run threads
 
 ```bash
-gcc <file> -0 <name_executable>
+gcc <file> -o <name_executable>
 sudo <executable> -lpthread
 ````
 
